@@ -1,33 +1,8 @@
 {
   "name": "practice-dev-env",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dong-woogie/practice-dev-env.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dong-woogie/practice-dev-env/issues"
-  },
-  "homepage": "https://github.com/dong-woogie/practice-dev-env#readme",
-  "scripts": {
-    "start": "webpack",
-    "dev": "node ./scripts/start.js"
-  },
-  "dependencies": {
-    "@babel/core": "^7.12.7",
-    "@babel/plugin-transform-runtime": "^7.12.1",
-    "@babel/preset-env": "^7.12.7",
-    "@babel/preset-typescript": "^7.12.7",
-    "babel-loader": "^8.2.1",
-    "core-js": "^3.7.0",
-    "webpack": "^5.6.0"
-  },
-  "devDependencies": {
-    "webpack-cli": "^4.2.0"
-  }
+  "repository": "https://github.com/dong-woogie/practice-dev-env.git",
+  "author": "dong-woogie <com6511@gmail.com>",
+  "license": "MIT"
 }
